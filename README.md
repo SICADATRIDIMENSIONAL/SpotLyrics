@@ -1,5 +1,3 @@
-!\[SpotLyrics logo](https://ibb.co/XZCqmWTC)
-
 
 
 \# SpotLyrics.exe
