@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="./images/logo.png" alt="SpotLyrics Logo" width="200"/>
+  <img src="https://i.ibb.co/XZCqmWTC/Spot-Lyrics.jpg%22" alt="SpotLyrics Logo" width="200"/>
   <h1>🎵 SpotLyrics.exe</h1>
   <p><strong>View the lyrics of your favorite song — live, on top of any window.</strong></p>
   <p>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
     <img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge" alt="Version"/>
-    <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License"/>
+    <img src="https://img.shields.io/badge/license-Custom-blue?style=for-the-badge" alt="License"/>
   </p>
 </div>
 
