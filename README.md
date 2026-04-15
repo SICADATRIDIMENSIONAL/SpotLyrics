@@ -1,2 +1,96 @@
-# SpotLyrics
-"View the lyrics of your favorite song!"
+<div align="center">
+  <img src="https://i.ibb.co/XZCqmWTC/Spot-Lyrics.jpg" alt="SpotLyrics Logo" width="200"/>
+  <h1>🎵 SpotLyrics.exe</h1>
+  <p><strong>View the lyrics of your favorite song — live, on top of any window.</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+    <img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge" alt="Version"/>
+    <img src="https://img.shields.io/badge/license-Custom-blue?style=for-the-badge" alt="License"/>
+  </p>
+</div>
+
+---
+
+## 🇧🇷 Português
+
+**SpotLyrics.exe** é um aplicativo para Windows que mostra letras de músicas do Spotify em tempo real em uma janela flutuante **(picture‑in‑picture)**, sempre por cima das outras janelas. Com ele, você vê as lyrics e a transcrição da música atual sem precisar sair do Spotify ou do que estiver fazendo no PC.
+
+Se você procurou por **"Spotify lyrics no Windows"**, **"Windows lyrics popup"** ou **"live song lyrics while gaming"**, o SpotLyrics.exe foi feito exatamente para isso.
+
+### ✨ Recursos principais
+
+- 🎤 Letras, lyrics e transcrição **ao vivo** das músicas tocadas no Spotify.
+- 🖼️ Janela flutuante em modo **picture‑in‑picture** – perfeita para deixar o popup de letras sempre visível.
+- 🎨 Personalização de **fonte, tamanho e posição** da janela para combinar com o seu setup.
+- 🎮 Funciona muito bem enquanto você trabalha, estuda, **joga** ou assiste algo em tela cheia.
+- 🌐 Interface em **Português e Inglês** — troque o idioma pelo menu de contexto (botão direito).
+- 📊 **Histórico de músicas** com relatórios diário, semanal, mensal e anual — veja seus artistas e músicas mais ouvidos com o tempo de escuta.
+
+### 💡 Como o SpotLyrics.exe ajuda você
+
+Com o SpotLyrics.exe você transforma qualquer sessão de música em um **mini karaokê**, acompanhando as letras do Spotify em tempo real no Windows. É ideal para:
+
+- Aprender letras e pronunciar corretamente em outro idioma.
+- Cantar junto enquanto joga ou trabalha.
+- Simplesmente curtir suas músicas favoritas lendo cada verso.
+
+### 📊 Relatórios e Histórico
+
+O SpotLyrics registra automaticamente todas as músicas que você ouve, criando um histórico pessoal. Pelo menu de contexto (botão direito) > **"Histórico de Músicas"** você pode:
+
+- 📋 Ver a lista completa de músicas ouvidas **hoje** com horário.
+- 📤 Exportar a lista do dia como **relatório HTML** estilizado.
+- 📈 Gerar relatórios **semanais, mensais e anuais** com ranking de artistas e músicas mais ouvidos e o tempo total de escuta.
+
+> Os relatórios são gerados em HTML com design dark mode e abertos no seu navegador.
+
+### Em Breve
+
+- [ ] Versão para **Linux**
+
+---
+
+## 🇬🇧 English
+
+**SpotLyrics.exe** is a Windows app that shows live Spotify song lyrics in a floating picture‑in‑picture window, always on top of your other apps. You can read the lyrics and live transcription of the current track without leaving what you are doing on your PC.
+
+If you were searching for **"Spotify lyrics on Windows"**, **"Windows lyrics popup"** or **"live song lyrics while gaming"**, SpotLyrics.exe is the tool you are looking for.
+
+### ✨ Key Features
+
+- 🎤 **Live lyrics** and transcription of the current Spotify track.
+- 🖼️ **Floating picture‑in‑picture window** – keeps the lyrics popup always visible.
+- 🎨 Customizable **font, size and window position** to match your setup.
+- 🎮 Works great while you work, study, **game** or watch full‑screen content.
+- 🌐 Interface in **English and Portuguese** — switch language via the context menu (right‑click).
+- 📊 **Listening history** with daily, weekly, monthly and yearly reports — see your top artists and tracks with listening time.
+
+### 💡 How SpotLyrics.exe helps you
+
+Turn any music session into a **mini karaoke** experience. Follow Spotify lyrics in real time on Windows – perfect for learning lyrics, practicing pronunciation in another language, or simply enjoying your favorite songs line by line.
+
+### 📊 Reports & History
+
+SpotLyrics automatically records every song you listen to, building a personal history. Via the context menu (right‑click) > **"Listening History"** you can:
+
+- 📋 View today's complete track list with timestamps.
+- 📤 Export the daily list as a **styled HTML report**.
+- 📈 Generate **weekly, monthly and yearly reports** with top artists and tracks ranked by total listening time.
+
+> Reports are generated in HTML with a dark mode design and opened in your browser.
+
+### Coming Soon
+
+- [ ] **Linux version**
+
+---
+
+## 📥 Getting Started / Começando
+
+1. **Download** the latest `SpotLyrics.exe` from the [Releases](../../releases) page.
+2. Run the executable – no installation required.
+3. Play any song on Spotify (desktop app).
+4. The lyrics window will appear automatically.
+
+> ⚠️ **Note:** Spotify must be running and playing a track. The app uses the Spotify Web API (requires a free Spotify account for lyrics access).
