@@ -5,7 +5,7 @@
   <p>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-    <img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge" alt="Version"/>
+    <img src="https://img.shields.io/badge/version-1.0.1-blue?style=for-the-badge" alt="Version"/>
     <img src="https://img.shields.io/badge/license-Custom-blue?style=for-the-badge" alt="License"/>
   </p>
 </div>
